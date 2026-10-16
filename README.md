@@ -29,6 +29,6 @@ My background spans consulting, government, defence and applied research. My int
 
 My research repositories preserve the implementations and citations associated with earlier work. Their READMEs distinguish historical experiments from application projects.
 
-Smaller repositories cover [LangChain and Ollama](https://github.com/zohaibjan/langchain_udemy), [Streamlit](https://github.com/zohaibjan/streamlit), [OpenCV lane detection](https://github.com/zohaibjan/lane_detection_basic) and [PyTorch image classification](https://github.com/zohaibjan/Cats_VS_Dogs).
+Smaller repositories cover [LangChain and Ollama](https://github.com/zohaibjan/langchain-ollama-lab), [Penguin classifier](https://github.com/zohaibjan/penguin-species-classifier), [OpenCV lane detection](https://github.com/zohaibjan/lane_detection_basic) and [PyTorch image classification](https://github.com/zohaibjan/Cats_VS_Dogs).
 
 This profile presents selected public work. Professional experience and project outcomes are described in my [portfolio](https://zohaibjan.github.io/).
