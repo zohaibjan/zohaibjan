@@ -30,7 +30,18 @@ My background spans consulting, government, defence and applied research. My int
 
 ## Research and learning
 
-My research repositories preserve the implementations and citations associated with earlier work. Their READMEs distinguish historical experiments from application projects.
+My research repositories preserve the implementations and citations associated with earlier work. Each MATLAB README describes its data layout, dependencies, entry point and reproducibility limits.
+
+| Research repository | Focus |
+|---|---|
+| [IEEE TKDE](https://github.com/zohaibjan/IEEE_TKDE) | Optimised classifier ensembles and class-based clustering |
+| [IEEE Access](https://github.com/zohaibjan/IEEE_Access) | Ensemble diversity and classifier selection |
+| [Pattern Recognition](https://github.com/zohaibjan/PatternRecognition) | Strong and balanced clusters for deep learners |
+| [IEEE TNNLS](https://github.com/zohaibjan/IEEE_TNNLS) | Multicluster class-balanced ensembles |
+| [Clustering and PSO](https://github.com/zohaibjan/ensemble_works_TKDD) | Cluster and base-classifier optimisation experiments |
+| [Classifier selection experiments](https://github.com/zohaibjan/ACM_TIST_CSME) | Diversity measures and clustered ensembles |
+| [Ensemble optimisation experiments](https://github.com/zohaibjan/ensemble_optimised_PSO_GA_MOEA) | PSO, GA and diversity research prototypes |
+| [PhD thesis](https://github.com/zohaibjan/PhD_Thesis) | Thesis document and related publications |
 
 Smaller repositories cover [LangChain and Ollama](https://github.com/zohaibjan/langchain-ollama-lab), [Penguin classifier](https://github.com/zohaibjan/penguin-species-classifier), [OpenCV lane detection](https://github.com/zohaibjan/lane_detection_basic) and [PyTorch image classification](https://github.com/zohaibjan/Cats_VS_Dogs).
 
