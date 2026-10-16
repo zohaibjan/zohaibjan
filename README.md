@@ -12,6 +12,7 @@ My background spans consulting, government, defence and applied research. My int
 
 | Project | What to explore |
 |---|---|
+| [Snowflake AI App Framework](https://github.com/zohaibjan/snowflake-ai-app-framework) | Reusable Streamlit and Snowflake Cortex templates, document processing components and container deployment examples |
 | [Cogni AI Flashcards](https://github.com/zohaibjan/cogni-ai-flashcards) | Expo Router and React Native study-app prototype; Gemini generation and local study-set storage |
 | [Migration Pathway Assistant](https://github.com/zohaibjan/migration-pathway-assistant) | Expo prototype combining offline rules, optional server-side AI and per-user document storage |
 | [Local Document Redaction](https://github.com/zohaibjan/local-document-redaction) | FastAPI, local OCR and Presidio; image-only PDF output, verification gate, tests and threat model |
