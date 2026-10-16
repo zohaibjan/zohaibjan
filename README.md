@@ -12,7 +12,8 @@ My background spans consulting, government, defence and applied research. My int
 
 | Project | What to explore |
 |---|---|
-| [PDF Sensitive-Data Scanner](https://github.com/zohaibjan/pdf_tfn_validation) | Modular Python document processing, OCR fallback, configurable detectors, sampling and tests |
+| [Local Document Redaction](https://github.com/zohaibjan/local-document-redaction) | FastAPI, local OCR and Presidio; image-only PDF output, verification gate, tests and threat model |
+| [PDF Sensitive-Data Scanner](https://github.com/zohaibjan/pdf-sensitive-data-scanner) | Modular Python document processing, OCR fallback, configurable detectors, sampling and tests |
 | [Optimised Ensemble Classification](https://github.com/zohaibjan/IEEE_TKDE) | MATLAB research on class-based clustering, diversity and particle swarm optimisation |
 | [Diversity-Based Classifier Selection](https://github.com/zohaibjan/IEEE_Access) | Implementation associated with my IEEE Access paper |
 | [Ensemble of Deep Learners](https://github.com/zohaibjan/PatternRecognition) | Research on multiple strong and balanced clusters |
