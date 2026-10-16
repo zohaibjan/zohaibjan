@@ -12,6 +12,8 @@ My background spans consulting, government, defence and applied research. My int
 
 | Project | What to explore |
 |---|---|
+| [Cogni AI Flashcards](https://github.com/zohaibjan/cogni-ai-flashcards) | Expo Router and React Native study-app prototype; Gemini generation and local study-set storage |
+| [Migration Pathway Assistant](https://github.com/zohaibjan/migration-pathway-assistant) | Expo prototype combining offline rules, optional server-side AI and per-user document storage |
 | [Local Document Redaction](https://github.com/zohaibjan/local-document-redaction) | FastAPI, local OCR and Presidio; image-only PDF output, verification gate, tests and threat model |
 | [PDF Sensitive-Data Scanner](https://github.com/zohaibjan/pdf-sensitive-data-scanner) | Modular Python document processing, OCR fallback, configurable detectors, sampling and tests |
 | [Optimised Ensemble Classification](https://github.com/zohaibjan/IEEE_TKDE) | MATLAB research on class-based clustering, diversity and particle swarm optimisation |
