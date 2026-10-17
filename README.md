@@ -37,7 +37,7 @@ These public editions use generic examples and exclude private deployment settin
 | [Multimodal Report Studio](https://github.com/zohaibjan/multimodal-report-studio) | Audio and photo reporting with local Whisper, OpenAI text processing and SQLite |
 | [Modular AI Workbench](https://github.com/zohaibjan/modular-ai-workbench) | FastAPI/React module discovery, login, administration and per-module access controls |
 | [CSV PII Signal Scanner](https://github.com/zohaibjan/csv-pii-signal-scanner) | Python CLI for potential personal-information signals, masked output and regression tests |
-| [Beyond Human WordPress Theme](https://github.com/zohaibjan/beyond-human-wordpress-theme) | Custom PHP templates, responsive styles, navigation and contact handling |
+| [Editorial WordPress Theme](https://github.com/zohaibjan/editorial-wordpress-theme) | Custom PHP templates, responsive styles, navigation and contact handling |
 
 ## Engineering focus
 
