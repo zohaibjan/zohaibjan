@@ -25,6 +25,20 @@ The Jetson and FieldWise projects are fresh public reference implementations rec
 | [Diversity-Based Classifier Selection](https://github.com/zohaibjan/IEEE_Access) | Implementation associated with my IEEE Access paper |
 | [Ensemble of Deep Learners](https://github.com/zohaibjan/PatternRecognition) | Research on multiple strong and balanced clusters |
 
+## Enterprise AI and application demos
+
+These public editions use generic examples and exclude private deployment settings and operational records. Each repository documents its setup, validation and remaining limits.
+
+| Project | What to explore |
+|---|---|
+| [Document Evidence Review](https://github.com/zohaibjan/document-evidence-review) | Streamlit and Snowflake Cortex claim review with exact source-quotation checks |
+| [Visual Quality Assistant](https://github.com/zohaibjan/visual-quality-assistant) | Snowflake Cortex image observations, editable findings and Word reports |
+| [Snowflake Field Reports](https://github.com/zohaibjan/snowflake-field-reports) | React/FastAPI audio and photo reporting with Snowflake transcription and Cortex |
+| [Multimodal Report Studio](https://github.com/zohaibjan/multimodal-report-studio) | Audio and photo reporting with local Whisper, OpenAI text processing and SQLite |
+| [Modular AI Workbench](https://github.com/zohaibjan/modular-ai-workbench) | FastAPI/React module discovery, login, administration and per-module access controls |
+| [CSV PII Signal Scanner](https://github.com/zohaibjan/csv-pii-signal-scanner) | Python CLI for potential personal-information signals, masked output and regression tests |
+| [Beyond Human WordPress Theme](https://github.com/zohaibjan/beyond-human-wordpress-theme) | Custom PHP templates, responsive styles, navigation and contact handling |
+
 ## Engineering focus
 
 - **Applied AI:** LLM applications, document workflows, computer vision and model evaluation.
@@ -46,6 +60,8 @@ My research repositories preserve the implementations and citations associated w
 | [Classifier selection experiments](https://github.com/zohaibjan/ACM_TIST_CSME) | Diversity measures and clustered ensembles |
 | [Ensemble optimisation experiments](https://github.com/zohaibjan/ensemble_optimised_PSO_GA_MOEA) | PSO, GA and diversity research prototypes |
 | [PhD thesis](https://github.com/zohaibjan/PhD_Thesis) | Thesis document and related publications |
+| [Python ensemble optimisation](https://github.com/zohaibjan/Ensemble_PSO_Python_V1) | Clustering, classifier fusion and particle swarm optimisation experiments |
+| [Roadside semantic segmentation](https://github.com/zohaibjan/ensemble_fcn_semantic_segmentation) | Legacy TensorFlow FCN research prototype with upstream attribution |
 
 Smaller repositories cover [LangChain and Ollama](https://github.com/zohaibjan/langchain-ollama-lab), [Penguin classifier](https://github.com/zohaibjan/penguin-species-classifier), [OpenCV lane detection](https://github.com/zohaibjan/lane_detection_basic) and [PyTorch image classification](https://github.com/zohaibjan/Cats_VS_Dogs).
 
