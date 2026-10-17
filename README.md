@@ -1,6 +1,6 @@
 # Muhammad Zohaib Jan, PhD
 
-**AI Architect & Senior Manager · Brisbane, Australia**
+**Senior Manager / AI Architect at EY Australia · Brisbane**
 
 I connect enterprise AI strategy with hands-on engineering: designing applications, working with data platforms and helping teams turn prototypes into practical solutions.
 
@@ -10,8 +10,12 @@ My background spans consulting, government, defence and applied research. My int
 
 ## Selected work
 
+The Jetson and FieldWise projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
+
 | Project | What to explore |
 |---|---|
+| [Jetson Edge Vision](https://github.com/zohaibjan/jetson-edge-vision) | C/C++ GStreamer elements, DeepStream YOLO parsing, TensorRT engine caching, ZeroMQ events and a browser console; includes a synthetic simulator |
+| [FieldWise RAG Assistant](https://github.com/zohaibjan/fieldwise-rag-assistant) | Versioned document retrieval, inspectable citations, abstention, synthetic evaluation and optional OpenAI-generated answers |
 | [Snowflake AI App Framework](https://github.com/zohaibjan/snowflake-ai-app-framework) | Reusable Streamlit and Snowflake Cortex templates, document processing components and container deployment examples |
 | [Cogni AI Flashcards](https://github.com/zohaibjan/cogni-ai-flashcards) | Expo Router and React Native study-app prototype; Gemini generation and local study-set storage |
 | [Migration Pathway Assistant](https://github.com/zohaibjan/migration-pathway-assistant) | Expo prototype combining offline rules, optional server-side AI and per-user document storage |
@@ -24,7 +28,7 @@ My background spans consulting, government, defence and applied research. My int
 ## Engineering focus
 
 - **Applied AI:** LLM applications, document workflows, computer vision and model evaluation.
-- **Platforms:** Python, SQL, Snowflake Cortex and container services, Azure and Docker.
+- **Platforms:** Python, C/C++, GStreamer, DeepStream, SQL, Snowflake Cortex and container services, Azure and Docker.
 - **Architecture:** data integration, privacy, governance and the path from prototype to deployment.
 - **Leadership:** technical direction, stakeholder communication and multidisciplinary delivery.
 
