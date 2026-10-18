@@ -10,10 +10,11 @@ My background spans consulting, government, defence and applied research. My int
 
 ## Selected work
 
-The Jetson and FieldWise projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
+The Jetson, FieldWise and Vision Training Hub projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
 
 | Project | What to explore |
 |---|---|
+| [Vision Training Hub](https://github.com/zohaibjan/vision-training-hub) | YOLOv8 web training portal, persistent job queue, available-GPU scheduling, logs, model artifacts and MLflow tracking; tested simulation, GPU acceptance pending |
 | [Jetson Edge Vision](https://github.com/zohaibjan/jetson-edge-vision) | C/C++ GStreamer elements, DeepStream YOLO parsing, TensorRT engine caching, ZeroMQ events and a browser console; includes a synthetic simulator |
 | [FieldWise RAG Assistant](https://github.com/zohaibjan/fieldwise-rag-assistant) | Versioned document retrieval, inspectable citations, abstention, synthetic evaluation and optional OpenAI-generated answers |
 | [Snowflake AI App Framework](https://github.com/zohaibjan/snowflake-ai-app-framework) | Reusable Streamlit and Snowflake Cortex templates, document processing components and container deployment examples |
