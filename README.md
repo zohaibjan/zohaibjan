@@ -10,10 +10,11 @@ My background spans consulting, government, defence and applied research. My int
 
 ## Selected work
 
-The Jetson, FieldWise and Vision Training Hub projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
+The Jetson, FieldWise, Vision Training Hub and Synthetic Data Generation for YOLO projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
 
 | Project | What to explore |
 |---|---|
+| [Synthetic Data Generation for YOLO](https://github.com/zohaibjan/synthetic-data-generation-yolo) | React + FastAPI, scenery and object references, Stable Diffusion variations, reviewed labels and YOLO exports; real inference validation pending |
 | [Vision Training Hub](https://github.com/zohaibjan/vision-training-hub) | React + FastAPI YOLOv8 training portal, persistent job queue, available-GPU scheduling, logs, model artifacts and MLflow tracking; tested simulation, GPU acceptance pending |
 | [Jetson Edge Vision](https://github.com/zohaibjan/jetson-edge-vision) | C/C++ GStreamer elements, DeepStream YOLO parsing, TensorRT engine caching, ZeroMQ events and a browser console; includes a synthetic simulator |
 | [FieldWise RAG Assistant](https://github.com/zohaibjan/fieldwise-rag-assistant) | Versioned document retrieval, inspectable citations, abstention, synthetic evaluation and optional OpenAI-generated answers |
