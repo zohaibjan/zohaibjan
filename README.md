@@ -63,7 +63,7 @@ My research repositories preserve the implementations and citations associated w
 | [Ensemble optimisation experiments](https://github.com/zohaibjan/ensemble_optimised_PSO_GA_MOEA) | PSO, GA and diversity research prototypes |
 | [PhD thesis](https://github.com/zohaibjan/PhD_Thesis) | Thesis document and related publications |
 | [Python ensemble optimisation](https://github.com/zohaibjan/Ensemble_PSO_Python_V1) | Clustering, classifier fusion and particle swarm optimisation experiments |
-| [Roadside semantic segmentation](https://github.com/zohaibjan/ensemble_fcn_semantic_segmentation) | Legacy TensorFlow FCN research prototype with upstream attribution |
+| [Roadside semantic segmentation](https://github.com/zohaibjan/ensemble_fcn_semantic_segmentation) | TensorFlow 2 / Keras FCN-style training, validated masks, IoU evaluation and ensemble inference; CPU-tested, original research preserved in legacy/ |
 
 Smaller repositories cover [LangChain and Ollama](https://github.com/zohaibjan/langchain-ollama-lab), [Penguin classifier](https://github.com/zohaibjan/penguin-species-classifier), [OpenCV lane detection](https://github.com/zohaibjan/lane_detection_basic) and [PyTorch image classification](https://github.com/zohaibjan/Cats_VS_Dogs).
 
