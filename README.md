@@ -1,10 +1,10 @@
 # Muhammad Zohaib Jan, PhD
 
-**Senior Manager / AI Architect at EY Australia · Brisbane**
+**Senior Manager / AI Architect · Brisbane**
 
 I connect enterprise AI strategy with hands-on engineering: designing applications, working with data platforms and helping teams turn prototypes into practical solutions.
 
-My background spans consulting, government, defence and applied research. My interests include LLM applications, document intelligence, computer vision, responsible AI and cloud architecture.
+My background spans consulting, enterprise technology and applied research. My interests include LLM applications, document intelligence, computer vision, responsible AI and cloud architecture.
 
 [Professional portfolio](https://zohaibjan.github.io/) · [LinkedIn](https://www.linkedin.com/in/zohaibjan/) · [Research publications](https://scholar.google.com/citations?user=_gj3lH3YUVoC&hl=en)
 
@@ -35,7 +35,7 @@ These public editions use generic examples and exclude private deployment settin
 |---|---|
 | [Document Evidence Review](https://github.com/zohaibjan/document-evidence-review) | Streamlit and Snowflake Cortex claim review with exact source-quotation checks |
 | [Visual Quality Assistant](https://github.com/zohaibjan/visual-quality-assistant) | Snowflake Cortex image observations, editable findings and Word reports |
-| [Snowflake Field Reports](https://github.com/zohaibjan/snowflake-field-reports) | React/FastAPI audio and photo reporting with Snowflake transcription and Cortex |
+| [Field Notes Studio](https://github.com/zohaibjan/snowflake-field-reports) | React/FastAPI audio and photo reporting with Snowflake transcription and Cortex |
 | [Multimodal Report Studio](https://github.com/zohaibjan/multimodal-report-studio) | Audio and photo reporting with local Whisper, OpenAI text processing and SQLite |
 | [Modular AI Workbench](https://github.com/zohaibjan/modular-ai-workbench) | FastAPI/React module discovery, login, administration and per-module access controls |
 | [CSV PII Signal Scanner](https://github.com/zohaibjan/csv-pii-signal-scanner) | Python CLI for potential personal-information signals, masked output and regression tests |
