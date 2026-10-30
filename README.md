@@ -14,6 +14,7 @@ The Jetson, FieldWise, Vision Training Hub and Synthetic Data Generation for YOL
 
 | Project | What to explore |
 |---|---|
+| [PCA & NCA Feature Engineering](https://github.com/zohaibjan/feature-engineering-pca-nca) | Baseline, PCA, NCA and combined kNN classifiers; training-only CV, held-out metrics, reproducible artifacts and MATLAB feature-selection links |
 | [Synthetic Data Generation for YOLO](https://github.com/zohaibjan/synthetic-data-generation-yolo) | React + FastAPI, scenery and object references, Stable Diffusion variations, reviewed labels and YOLO exports; real inference validation pending |
 | [Vision Training Hub](https://github.com/zohaibjan/vision-training-hub) | React + FastAPI YOLOv8 training portal, persistent job queue, available-GPU scheduling, logs, model artifacts and MLflow tracking; tested simulation, GPU acceptance pending |
 | [Jetson Edge Vision](https://github.com/zohaibjan/jetson-edge-vision) | C/C++ GStreamer elements, DeepStream YOLO parsing, TensorRT engine caching, ZeroMQ events and a browser console; includes a synthetic simulator |
