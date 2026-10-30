@@ -10,10 +10,11 @@ My background spans consulting, enterprise technology and applied research. My i
 
 ## Selected work
 
-The Jetson, FieldWise, Vision Training Hub and Synthetic Data Generation for YOLO projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
+The Predictive Maintenance Lab, Jetson, FieldWise, Vision Training Hub and Synthetic Data Generation for YOLO projects are fresh public reference implementations recreated from high-level project ideas. They contain no employer/client source code. Their READMEs distinguish tested behavior from target-device or API validation still to do.
 
 | Project | What to explore |
 |---|---|
+| [Predictive Maintenance Lab](https://github.com/zohaibjan/predictive-maintenance-lab) | Synthetic sensor data, Kafka ingestion, causal rolling features, calibrated SVM/neural-network models, MLflow tracking and a FastAPI fleet-health dashboard |
 | [PCA & NCA Feature Engineering](https://github.com/zohaibjan/feature-engineering-pca-nca) | Baseline, PCA, NCA and combined kNN classifiers; training-only CV, held-out metrics, reproducible artifacts and MATLAB feature-selection links |
 | [Synthetic Data Generation for YOLO](https://github.com/zohaibjan/synthetic-data-generation-yolo) | React + FastAPI, scenery and object references, Stable Diffusion variations, reviewed labels and YOLO exports; real inference validation pending |
 | [Vision Training Hub](https://github.com/zohaibjan/vision-training-hub) | React + FastAPI YOLOv8 training portal, persistent job queue, available-GPU scheduling, logs, model artifacts and MLflow tracking; tested simulation, GPU acceptance pending |
